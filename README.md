@@ -31,4 +31,4 @@ Building AI-driven growth systems and data pipelines for scalable B2B businesses
 ## 📫 Connect With Me
 
 LinkedIn: linkedin.com/in/niloofarvafa  
-Email: your@email.com
+Email: niloofarvaf@gmail.com
