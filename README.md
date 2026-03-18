@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Niloofar 👋
 
-<!--
-**niloofarvafa/niloofarvafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Systems Builder  
+SaaS Analytics · Automation · Growth Engineering  
 
-Here are some ideas to get you started:
+I design scalable systems that combine data analysis, AI and automation to solve real business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 What I Work On
+
+- 📊 SaaS Growth Analytics (CAC, Funnel, Retention)
+- 🤖 AI Automation Workflows (GPT, APIs, Make)
+- 🧠 Lead Scoring & Segmentation Systems
+- 📈 KPI Dashboards & Business Intelligence
+
+---
+
+## 🛠 Tech Stack
+
+Python · SQL · Power BI · Make · APIs · Automation · Machine Learning
+
+---
+
+## 🚀 Current Focus
+
+Building AI-driven growth systems and data pipelines for scalable B2B businesses.
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: linkedin.com/in/niloofarvafa  
+Email: your@email.com
