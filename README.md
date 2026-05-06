@@ -39,7 +39,8 @@ I build scalable systems that combine **data, AI, and automation** to solve real
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=niloofarvafa&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-## 🚀 Current Focus
+
+## Current Focus
 
 Building **AI-driven growth systems** and **data pipelines** for scalable B2B products.
 
