@@ -9,7 +9,7 @@
 AI & Data Systems Builder  
 SaaS Analytics · Automation · Growth Engineering  
 
-I design scalable systems that combine **data, AI, and automation** to solve real business problems and drive growth.
+I build scalable systems that combine **data, AI, and automation** to solve real business problems and drive measurable growth.
 
 ---
 
@@ -28,7 +28,7 @@ I design scalable systems that combine **data, AI, and automation** to solve rea
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/API-FF6F00?logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/APIs-FF6F00?logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Automation-0A0A0A?logo=zapier&logoColor=white"/>
   <img src="https://img.shields.io/badge/MachineLearning-102230?logo=tensorflow&logoColor=orange"/>
 </p>
@@ -38,14 +38,14 @@ I design scalable systems that combine **data, AI, and automation** to solve rea
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niloofarvafa&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niloofarvafa&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🚀 Current Focus
 
-Building **AI-driven growth systems** and **data pipelines** for scalable B2B businesses.
+Building **AI-driven growth systems** and **data pipelines** for scalable B2B products.
 
 ---
 
