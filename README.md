@@ -45,14 +45,14 @@ Building **AI-driven growth systems** and **data pipelines** for scalable B2B pr
 
 ---
 
-## 💼 Open To
+##  Open To
 
-🎯 Internship opportunities in **AI / Data / Analytics**  
+ 
 🤝 Collaborations on **AI & automation projects**
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/niloofarvafa  
-- 📧 Email: niloofarvaf@gmail.com
+-  LinkedIn: https://linkedin.com/in/niloofarvafa  
+-  Email: niloofarvaf@gmail.com
